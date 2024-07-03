@@ -2,7 +2,8 @@
 
 Welcome to the Robotic Object Recognition via Convolutional Neural Networks (CNN) and Image Processing repository! This project aims to develop and implement robust object recognition techniques for robotics applications using CNNs and advanced image processing methods.
 
-![4](https://github.com/patilabhi20/Robotic-Tasks-via-Large-Language-Models/assets/157373320/90c2a08c-40b1-4b8e-ace7-39f194143c1a)
+                             ![4](https://github.com/patilabhi20/Robotic-Tasks-via-Large-Language-Models/assets/157373320/90c2a08c-40b1-4b8e-ace7-39f194143c1a)
+
 
 
 ## Table of Contents
@@ -13,6 +14,7 @@ Welcome to the Robotic Object Recognition via Convolutional Neural Networks (CNN
 * Examples
 * Contributing
 * Contact
+  
 
 ## Introduction
 
