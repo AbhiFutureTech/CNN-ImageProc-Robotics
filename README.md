@@ -58,6 +58,8 @@ For detailed usage instructions, refer to the documentation provided in the docs
 
 Here are some basic examples to get you started:
 
+![color_detection](https://github.com/patilabhi20/Robotic-Tasks-via-Large-Language-Models/assets/157373320/3d469ee4-0045-4b2c-88b5-88f40c8a9d57)
+
 * Object Recognition
 
     ``` 
